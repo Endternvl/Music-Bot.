@@ -7,6 +7,7 @@ first, go to https://discord.com/developers/applications. then, create new appli
 
 # Setuping the bot
 1. go to config.txt, then fill all of this:
+
 token = YOUR BOT'S TOKEN FROM DISCORD DEVELOPER PORTAL
 
 owner = THE OWNER'S ID. SEARCH ON YOUTUBE HOW TO DO IT
